@@ -7,7 +7,7 @@
 //  Availability: (github)
 //
 //------------------------------------------------------------------------------
-    cd "U:\SaSR3" // Change this working directory"
+    cd "U:\SaSR4" // Change this working directory"
     clear all
     set more off
     set linesize 80
