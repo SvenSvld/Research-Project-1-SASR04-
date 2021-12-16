@@ -4,7 +4,7 @@
 //  Author(s): Yuxuan Jin, Sven Strating
 //  Date: 16-12-2021
 //  Code version: 16
-//  Availability: (github)
+//  Availability: (GitHub)
 //
 //------------------------------------------------------------------------------
     cd "U:\SaSR3" // Change this working directory"
